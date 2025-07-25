@@ -56,4 +56,4 @@ This project trains a baseline model to classify handwritten digits (0–9) usin
 ✅ Baseline model implemented
 ✅ Noise injection experiments completed
 ✅ Visualizations for accuracy and confusion matrices
-⬜ Modularization and automation (optional next step)
+✅ Automated noise-level experiments with loop refactor
